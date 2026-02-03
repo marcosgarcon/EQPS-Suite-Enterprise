@@ -1,0 +1,16 @@
+
+{
+  "short_name": "EQPS",
+  "name": "EQPS - Industrial Monitor Suite",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EQPS - Industrial Monitor Suite",
+  "description": "Industrial document management and validation system with AI-powered PDF processing for Panasonic industrial standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

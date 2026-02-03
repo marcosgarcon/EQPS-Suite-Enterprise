@@ -1,0 +1,31 @@
+{
+  "name": "eqps-suite-industrial",
+  "version": "5.0.0",
+  "private": true,
+  "description": "Industrial Enterprise Hub for Quality and Production Monitoring with AI capabilities.",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "lucide-react": "^0.562.0",
+    "recharts": "^3.6.0",
+    "@google/genai": "^1.34.0",
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'Optimization not required for ES6 module delivery'"
+  },
+  "keywords": [
+    "industrial",
+    "erp",
+    "mes",
+    "quality",
+    "ai",
+    "gemini",
+    "panasonic",
+    "kpi"
+  ],
+  "author": "Marcos Garçon",
+  "license": "MIT"
+}
