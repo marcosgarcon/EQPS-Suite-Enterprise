@@ -1,16 +1,19 @@
 
 {
-  "short_name": "EQPS",
-  "name": "EQPS - Industrial Monitor Suite",
+  "short_name": "EQPS 5.0",
+  "name": "EQPS Ultimate - Panasonic Industrial",
+  "description": "Sistema de Gestão Industrial e Monitoramento de Qualidade - Planta Extrema",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#020617",
-  "background_color": "#020617"
+  "background_color": "#020617",
+  "orientation": "any"
 }
